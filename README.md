@@ -24,6 +24,9 @@ Remember the code style of the source is really bad. I will not continue to main
 1. Always keep `HZK16.nft.tns` in the `Fonts` folder. If failed on opening your personal font, `HZK16` will be used instead.
 2. Remember to select 'Remove bookmarks and other files and quit' before you want to delete any text files. Otherwize, bookmarks and other temporary files may remain and you cannot delete them without PC.
 
+#### Download
+Download can be found [here](http://www.cncalc.org/thread-9785-1-1.html)
+
 #### Licenses
 >The MIT License (MIT)
 >
