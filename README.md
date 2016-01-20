@@ -1,11 +1,11 @@
 nNovel Plus
 ===========
 
-nNovel Plus is a simple e-book reader which can be run on TI-Nspire calculator(ndless 3.1 or higher required).The program is able to encode text file with Chinese characters(GBK only) and support all nspire series including clickpad model, touchpad model, CX and CM.
+nNovel Plus is a simple e-book reader which runs on TI-Nspire calculator(ndless 3.1 or higher required). The program is able to encode text file with Chinese characters(GBK only). It supports all nspire series including clickpad model, touchpad model, CX and CM.
 
 Two years ago I wrote this program in a hurry because I wanted to read light novel in high school classrooms XD.
 
-Remember the code style of the source is really bad. This project didn't get any update for almost two years and I am not willing to update in the future.
+Remember the code style of the source is really bad. I will not continue to maintain this project in the future.
 
 #### Screen shots
 ![Screen1](./screenshots/1.jpg)  
@@ -15,14 +15,14 @@ Remember the code style of the source is really bad. This project didn't get any
 
 #### How to use
 1. Create two folders on your calculator named `Fonts` and `nNovel` in the document folder.
-2. Send `HZK16.nft.tns` together with other fonts you like to the `Fonts` folder. Remember always keep `HZK16.nft.tns` as it is the default font.
+2. Send `HZK16.nft.tns` together with other fonts you like to the `Fonts` folder. As it is the default font, `HZK16.nft.tns` is an essential.
 3. Send `nNovel.tns` to your calculator.
 4. Send text files to `nNovel` folder. Make sure all texts are coded with GBK.
 5. Run `nNovel.tns` on your calculator.
 
 #### Notice
-1. Always keep`HZK16.nft.tns` as it is the default font. If failed on opening your persional font, `HZK16` will be used instead.
-2. Remember to select 'Remove bookmarks and other files and quit' before you want to delete any text files. Otherwize bookmarks and other temporary files may remain and you cannot delete them without PC.
+1. Always keep `HZK16.nft.tns` in the `Fonts` folder. If failed on opening your personal font, `HZK16` will be used instead.
+2. Remember to select 'Remove bookmarks and other files and quit' before you want to delete any text files. Otherwize, bookmarks and other temporary files may remain and you cannot delete them without PC.
 
 #### Licenses
 >The MIT License (MIT)
